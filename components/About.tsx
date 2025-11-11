@@ -12,7 +12,7 @@ const About: React.FC = () => {
                     <div className="group relative h-96 w-full max-w-lg mx-auto lg:mx-0 lg:h-[32rem] border-2 border-accent/30 p-4">
                         <div className="absolute inset-2 bg-gray-800 overflow-hidden">
                              <img
-                                src="https://lh3.googleusercontent.com/d/1mbSWKAXQbx-H0lqZ1xkoH7QhH7YD6rvD"
+                                src="https://lh3.googleusercontent.com/d/1DNl5Nswl1DGHEYxLghVAB2Wz9V1LWztD"
                                 alt="Professional headshot of Eseroghene Okobiah"
                                 className="h-full w-full object-cover object-center transition-transform duration-300 ease-in-out group-hover:scale-105"
                              />
